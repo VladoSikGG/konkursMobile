@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082030401953",
+    "project_id": "konkurs-91da2",
+    "storage_bucket": "konkurs-91da2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082030401953:android:f4c0512c70e62da02c43e0",
+        "android_client_info": {
+          "package_name": "com.example.konkurs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP9lP2QxC0UuUOnABfR7553cMySEwFVy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

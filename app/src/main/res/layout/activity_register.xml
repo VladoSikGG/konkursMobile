@@ -79,6 +79,7 @@
         android:hint="Your nickname"
         android:inputType="text"
         app:layout_constraintBottom_toTopOf="@+id/btnRegister"
-        app:layout_constraintTop_toBottomOf="@+id/regPass"
-        tools:layout_editor_absoluteX="99dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/regPass" />
 </androidx.constraintlayout.widget.ConstraintLayout>
